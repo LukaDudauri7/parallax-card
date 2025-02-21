@@ -28,7 +28,7 @@ function App() {
         >
           {product.product.description}
         </CardItem>
-        
+
         <div className="mt-20 flex w-full items-center justify-between">
           <CardItem 
             component="a" 
